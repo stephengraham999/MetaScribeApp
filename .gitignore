@@ -1,0 +1,22 @@
+# Standard Swift & Xcode .gitignore
+
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build products
+build/
+DerivedData/
+
+# Xcode project files
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcuserdata/
+UserInterfaceState.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+*.xcodeproj/project.pbxproj.bk
