@@ -2,6 +2,14 @@
 //  PromptEditorView.swift
 //  MetaScribe
 //
+//  Created by Stephen Graham on 18/07/2025.
+//
+
+
+//
+//  PromptEditorView.swift
+//  MetaScribe
+//
 //  A view that allows the user to edit the main AI prompt template.
 //
 
